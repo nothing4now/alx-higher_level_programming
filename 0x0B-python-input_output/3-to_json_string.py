@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" defining funtion"""
+"""defining funtion. """
 import json
 
 
